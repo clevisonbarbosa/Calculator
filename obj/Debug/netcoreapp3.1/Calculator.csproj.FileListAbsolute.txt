@@ -1,0 +1,14 @@
+C:\Balta_csharp\Calculator\bin\Debug\netcoreapp3.1\Calculator.exe
+C:\Balta_csharp\Calculator\bin\Debug\netcoreapp3.1\Calculator.deps.json
+C:\Balta_csharp\Calculator\bin\Debug\netcoreapp3.1\Calculator.runtimeconfig.json
+C:\Balta_csharp\Calculator\bin\Debug\netcoreapp3.1\Calculator.runtimeconfig.dev.json
+C:\Balta_csharp\Calculator\bin\Debug\netcoreapp3.1\Calculator.dll
+C:\Balta_csharp\Calculator\bin\Debug\netcoreapp3.1\Calculator.pdb
+C:\Balta_csharp\Calculator\obj\Debug\netcoreapp3.1\Calculator.csproj.AssemblyReference.cache
+C:\Balta_csharp\Calculator\obj\Debug\netcoreapp3.1\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Balta_csharp\Calculator\obj\Debug\netcoreapp3.1\Calculator.AssemblyInfoInputs.cache
+C:\Balta_csharp\Calculator\obj\Debug\netcoreapp3.1\Calculator.AssemblyInfo.cs
+C:\Balta_csharp\Calculator\obj\Debug\netcoreapp3.1\Calculator.csproj.CoreCompileInputs.cache
+C:\Balta_csharp\Calculator\obj\Debug\netcoreapp3.1\Calculator.dll
+C:\Balta_csharp\Calculator\obj\Debug\netcoreapp3.1\Calculator.pdb
+C:\Balta_csharp\Calculator\obj\Debug\netcoreapp3.1\Calculator.genruntimeconfig.cache
